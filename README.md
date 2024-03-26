@@ -6,7 +6,7 @@ Welcome to WebVR Gotham City, a virtual reality experience bringing the iconic c
 
 Some models used in this project are sourced from third-party repositories and credited accordingly. All efforts have been made to make sure that the licensing terms are properly made.
 
-##note
+## note
 - Batcave model was done by us but it's too large file
 
 ## Installation
